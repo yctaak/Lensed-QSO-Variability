@@ -1,0 +1,5 @@
+Last edited 2023/04/03
+This folder contains a python file that reads lensed QSO catalogs (OM10 and Yue22),
+and processes them to produce forecasts of the number of lensed QSOs that exhibit sufficient variability. 
+
+The base code gives results for LSST, but can be altered for other surveys as well. 
